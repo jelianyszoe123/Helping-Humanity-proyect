@@ -98,7 +98,7 @@ width: 100;
 
 
 .barra-inferior {
-    background-image: url('Copilot_20250602_192553.png'); /* Cambia 'tu-imagen.jpg' por el nombre de tu imagen */
+    background-image: url('fondo\ de\ paisaje.jpg'); /* Cambia 'tu-imagen.jpg' por el nombre de tu imagen */
     background-size: cover; /* Asegura que cubra toda la barra */
     background-position: center; /* Centra la imagen */
     background-repeat: no-repeat; /* Evita que se repita */
@@ -203,7 +203,7 @@ width: 100;
     text-align: center; /* Para que el texto esté centrado */
 }
 .fondo {
-    background-image: url('Copilot_20250602_192553.png'); /* Cambia 'tu-imagen.jpg' por el nombre de tu imagen *'); /* Reemplázalo con tu imagen */
+    background-image: url('fondo\ de\ paisaje.jpg'); /* Cambia 'tu-imagen.jpg' por el nombre de tu imagen *'); /* Reemplázalo con tu imagen */
     background-size: cover;
     background-position: center;
     height: 100vh; /* Para que ocupe toda la pantalla */
@@ -300,7 +300,7 @@ height: 100px;
  }
 
  .barra-ultima {
-    background-image: url('Copilot_20250602_192553.png'); /* Cambia 'tu-imagen.jpg' por el nombre de tu imagen *'); /* Reemplázalo con tu imagen */
+    background-image: url('fondo\ de\ paisaje.jpg'); /* Cambia 'tu-imagen.jpg' por el nombre de tu imagen *'); /* Reemplázalo con tu imagen */
     background-size: cover; /* Asegura que cubra toda la barra */
     background-position: center; /* Centra la imagen */
     background-repeat: no-repeat; /* Evita que se repita */
